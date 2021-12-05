@@ -1,1 +1,1 @@
-println('a')
+document.getElementById('a').innerHTML = 'a';
