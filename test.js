@@ -1,1 +1,1 @@
-document.getElementById('a').innerHTML = 'a';
+document.write('aa');
